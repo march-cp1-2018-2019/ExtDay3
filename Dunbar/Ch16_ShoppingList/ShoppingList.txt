@@ -1,0 +1,5 @@
+Milk/2/2.49
+Oreos/2/1.99
+Corn/1/2.99
+Pepper/1/0.99
+Apple/1/0.99
